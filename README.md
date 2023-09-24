@@ -1,7 +1,10 @@
 # AutoModelGen
-My name is Felipe, i'm a Computer enginering student. I want to do a solution on windows for everyone who is looking for doing some AI voices with SVC.
-Did you notice that wherever you look for tutorials do you always find some strange things that you don't know, with hard processed and nothing is clear?, cause i have.
-I want to do a efficient, fast and easy way to everyone who is looking for do anything with AI voices (SVC). Can just do it, with no need of hard investigating, install random things, or do kind of "Anonymous"
-things, just download the client and have access to everything in just one place.
-They would just need to give de Audio sample and the acapella or voice to merge. Everything else will be done automatically by the program (Cutting samples, making/training model, merge the audios, etc).
-i'm kind of new in this type of coding, but if you are new or advanced. You're always welcome to contribbute this repository or suggest something, thanks!. 
+My name is Felipe, and I'm a computer engineering student. I want to create a Windows solution for anyone looking to work with AI voices using SVC.
+
+Have you ever noticed that no matter where you look for tutorials, you always come across unfamiliar and complex processes that lack clarity? I certainly have.
+
+I aim to provide an efficient, fast, and user-friendly solution for anyone interested in working with AI voices (SVC). They should be able to do it without the need for extensive research, installing random software, or engaging in 'anonymous' activities. Just download the client and have access to everything in one place.
+
+Users would only need to provide the audio sample and the acapella or voice to merge. Everything else will be handled automatically by the program, including cutting samples, creating/training models, merging the audio, and more.
+
+I'm relatively new to this type of coding, but whether you're a beginner or an advanced user, you're always welcome to contribute to this repository or suggest improvements. Thank you!
